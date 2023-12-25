@@ -86,18 +86,21 @@
 ## ![Microservices-Project-2](https://img.shields.io/badge/Microservices%20Project%202-20B2AA?style=for-the-badge) [<img alt="Repo-Link" src="https://img.shields.io/badge/Repo-Link-blue" />](https://github.com/pramodbn27/Microservices-Project-2)
 
 <p float="left">
-  <img src="architectures\ms-2.1.png" width="48%" />
-  <img src="architectures\ms-2.2.png" width="48%" />
-  <img src="architectures\ms-2.3.png" width="48%" />
-  <img src="architectures\ms-2.4.png" width="48%" />
+  <img src="architectures/ms-2.1.png" width="48%" />
+  <img src="architectures/ms-2.2.png" width="48%" />
+  <img src="architectures/ms-2.3.png" width="48%" />
+  <img src="architectures/ms-2.4.png" width="48%" />
 </p>
 
 ---
 
 ## ![DevOps-Project-1](https://img.shields.io/badge/DevOps%20Project%201-20B2AA?style=for-the-badge) [<img alt="Repo-Link" src="https://img.shields.io/badge/Repo-Link-blue" />](https://github.com/pramodbn27/devops-project-1)
 
-![devops-project-1.1](architectures/devops-project-1.png)
-![devops-project-1.2](architectures/kubernates-cicd.png)
+<p float="left">
+  <img src="architectures/devops-project-1.png" width="48%" />
+  <img src="architectures/kubernates-cicd.png" width="48%" />
+</p>
+
 ---
 
 ## ![DevOps-Project-2](https://img.shields.io/badge/DevOps%20Project%202-20B2AA?style=for-the-badge) [<img alt="Repo-Link" src="https://img.shields.io/badge/Repo-Link-blue" />](https://github.com/pramodbn27/devops-project-2)
