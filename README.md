@@ -63,30 +63,31 @@
 <h3>My Latest Projects</h3>
 
 
-### Project 1 [<img alt="Repo-Link" src="https://img.shields.io/badge/-Leadership-D70010?style=flat-square" />](https://github.com/pramodbn27)
+<div style="border: 2px solid #000000; padding: 10px; margin-bottom: 20px;">
+  <h3>Project 1 <a href="https://github.com/pramodbn27"><img alt="Repo-Link" src="https://img.shields.io/badge/Repo-Link-blue" /></a></h3>
+  <img src="architectures/CSYE6225.png" alt="project 1" style="max-width: 100%; height: auto;"/>
+</div>
 
-![project 1](architectures/CSYE6225.png)
-
-### AWS 3 Tier Architecture [<img alt="Repo-Link" src="https://img.shields.io/badge/-Leadership-D70010?style=flat-square" />](https://github.com/pramodbn27/aws-3-tier-architecture)
+### AWS 3 Tier Architecture [<img alt="Repo-Link" src="https://img.shields.io/badge/Repo-Link-blue" />](https://github.com/pramodbn27/aws-3-tier-architecture)
 
 <p float="left">
   <img src="architectures/3-tier-architecture.gif" width="50%" />
   <img src="architectures/active-failover.gif" width="50%" /> 
 </p>
 
-### Microservices Project 1 [<img alt="Repo-Link" src="https://img.shields.io/badge/-Leadership-D70010?style=flat-square" />](https://github.com/pramodbn27/Microservices-Project-1)
+### Microservices Project 1 [<img alt="Repo-Link" src="https://img.shields.io/badge/Repo-Link-blue" />](https://github.com/pramodbn27/Microservices-Project-1)
 
 ![ms-1](architectures/microservices-project-1.png)
 
-### Microservices Project 2 [<img alt="Repo-Link" src="https://img.shields.io/badge/-Leadership-D70010?style=flat-square" />](https://github.com/pramodbn27/Microservices-Project-2)
+### Microservices Project 2 [<img alt="Repo-Link" src="https://img.shields.io/badge/Repo-Link-blue" />](https://github.com/pramodbn27/Microservices-Project-2)
 
-[pdf](<architectures/Microservices Project 2.pdf>)
+![pdf](<architectures/Microservices Project 2.pdf>)
 
-### DevOps Project 1 [<img alt="Repo-Link" src="https://img.shields.io/badge/-Leadership-D70010?style=flat-square" />](https://github.com/pramodbn27/devops-project-1)
+### DevOps Project 1 [<img alt="Repo-Link" src="https://img.shields.io/badge/Repo-Link-blue" />](https://github.com/pramodbn27/devops-project-1)
 
 ![devops-project-1](architectures/devops-project-1.png)
 
-### DevOps Project 2 [<img alt="Repo-Link" src="https://img.shields.io/badge/-Leadership-D70010?style=flat-square" />](https://github.com/pramodbn27/devops-project-2)
+### DevOps Project 2 [<img alt="Repo-Link" src="https://img.shields.io/badge/Repo-Link-blue" />](https://github.com/pramodbn27/devops-project-2)
 
 ![devops-project-2](architectures/devops-project-2.png)
 
