@@ -70,7 +70,7 @@
 
 ---
 
-## ![AWS-3-Tier-Architecture] (https://img.shields.io/badge/AWS%203%20Tier%20Architecture-20B2AA?style=for-the-badge)[<img alt="Repo-Link" src="https://img.shields.io/badge/Repo-Link-blue" />](https://github.com/pramodbn27/aws-3-tier-architecture)
+## ![AWS-3-Tier-Architecture](https://img.shields.io/badge/AWS%203%20Tier%20Architecture-20B2AA?style=for-the-badge) [<img alt="Repo-Link" src="https://img.shields.io/badge/Repo-Link-blue" />](https://github.com/pramodbn27/aws-3-tier-architecture)
 
 ![3-tier-architecture](architectures/3-tier-architecture.gif)
 ![active-failover](architectures/active-failover.gif)
