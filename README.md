@@ -5,12 +5,12 @@
 
 <h3 align="left">Certifications</h3>
 <p align="left">
-<a href="https://www.credly.com/badges/d6eba757-5dab-4c5f-8341-0e005e80f75a" target="blank"><img align="center" src="certifications/aws-sa.png" alt="aws-sa" height="150" width="150" /></a>
-<a href="https://www.credly.com/badges/82cf019d-8586-4712-acf8-de7123c09247" target="blank"><img align="center" src="certifications/aws-cp.png" alt="aws-cp" height="150" width="150" /></a>
-<a href="https://www.credly.com/badges/d51fc3f0-83b5-465a-8e07-3effb9185f38" target="blank"><img align="center" src="certifications/restart.png" alt="aws-restart" height="150" width="150" /></a>
-<a href="https://www.credly.com/badges/b02ebfeb-779c-4814-b0eb-ac3aac212f45" target="blank"><img align="center" src="certifications/aws-edu.png" alt="aws-edu" height="150" width="150" /></a>
-<a href="https://www.credly.com/badges/2e2f51e7-c876-453b-8bd8-d18434051f47" target="blank"><img align="center" src="certifications/ta.png" alt="aws-ta" height="150" width="150" /></a>
-<a href="https://www.credly.com/badges/57a1be5f-3923-4cf7-90e6-cca5a319bf2d" target="blank"><img align="center" src="certifications/well.png" alt="aws-well" height="150" width="150" /></a>
+<a href="https://www.credly.com/badges/d6eba757-5dab-4c5f-8341-0e005e80f75a" target="blank"><img align="center" src="certifications/aws-sa.png" alt="aws-sa" height="130" width="130" /></a>
+<a href="https://www.credly.com/badges/82cf019d-8586-4712-acf8-de7123c09247" target="blank"><img align="center" src="certifications/aws-cp.png" alt="aws-cp" height="130" width="130" /></a>
+<a href="https://www.credly.com/badges/d51fc3f0-83b5-465a-8e07-3effb9185f38" target="blank"><img align="center" src="certifications/restart.png" alt="aws-restart" height="130" width="130" /></a>
+<a href="https://www.credly.com/badges/b02ebfeb-779c-4814-b0eb-ac3aac212f45" target="blank"><img align="center" src="certifications/aws-edu.png" alt="aws-edu" height="130" width="130" /></a>
+<a href="https://www.credly.com/badges/2e2f51e7-c876-453b-8bd8-d18434051f47" target="blank"><img align="center" src="certifications/ta.png" alt="aws-ta" height="130" width="130" /></a>
+<a href="https://www.credly.com/badges/57a1be5f-3923-4cf7-90e6-cca5a319bf2d" target="blank"><img align="center" src="certifications/well.png" alt="aws-well" height="130" width="130" /></a>
 </p>
 
 <h3>Skills Summary</h3>
