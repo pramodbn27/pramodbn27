@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramodbn27&label=Profile%20views&color=0e75b6&style=flat" alt="pramodbn27" /> </p>
 
+---
+
 <h3 align="left">Certifications <img alt="Verify" src="https://img.shields.io/badge/click%20on%20the%20badges%20to%20verify-178703" /> </h3>
 <p align="left">
 <a href="https://www.credly.com/badges/d6eba757-5dab-4c5f-8341-0e005e80f75a" target="blank"><img align="center" src="certifications/aws-sa.png" alt="aws-sa" height="130" width="130" /></a>
@@ -12,6 +14,8 @@
 <a href="https://www.credly.com/badges/2e2f51e7-c876-453b-8bd8-d18434051f47" target="blank"><img align="center" src="certifications/ta.png" alt="aws-ta" height="130" width="130" /></a>
 <a href="https://www.credly.com/badges/57a1be5f-3923-4cf7-90e6-cca5a319bf2d" target="blank"><img align="center" src="certifications/well.png" alt="aws-well" height="130" width="130" /></a>
 </p>
+
+---
 
 <h3>Skills Summary</h3>
 <h4>DevOps Tools</h4>
@@ -41,7 +45,6 @@
 <img alt="Cloudflare" src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
 <img alt="REST API" src="https://img.shields.io/badge/-REST%20API-DA3B8A?style=flat-square" />
 </p>
-
 <h4>Programming Languages/Frameworks</h4>
 <p>
 <img alt="Python" src="https://img.shields.io/badge/-Python-4B4B77?style=flat-square&logo=python&logoColor=white" />
@@ -52,7 +55,6 @@
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 <img alt="Microservices" src="https://img.shields.io/badge/-Microservices-C9284D?style=flat-square" />
 </p>
-
 <h4>Soft Skills</h4>
 <p>
 <img alt="Leadership" src="https://img.shields.io/badge/-Leadership-D70010?style=flat-square" />
