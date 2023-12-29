@@ -32,9 +32,31 @@
 <img alt="Elastic" src="https://img.shields.io/badge/-ELK-005571?style=flat-square&logo=elastic&logoColor=white" />
 <img alt="SonarQube" src="https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" />
 <img alt="Cloudflare" src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+<img alt="REST API" src="https://img.shields.io/badge/-REST%20API-DA3B8A?style=flat-square" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pramodbn27&show_icons=true&locale=en&layout=compact" alt="pramodbn27" /></p>
+<h4>Programming Languages/Frameworks</h4>
+<p>
+<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img alt="CSS3" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img alt="Microservices" src="https://img.shields.io/badge/-Microservices-C9284D?style=flat-square" />
+</p>
+
+<h4>Soft Skills</h4>
+<p>
+<img alt="Leadership" src="https://img.shields.io/badge/-Leadership-4B8BBE?style=flat-square" />
+<img alt="CriticalThinking" src="https://img.shields.io/badge/-CriticalThinking-FF6347?style=flat-square" />
+<img alt="ProblemSolving" src="https://img.shields.io/badge/-ProblemSolving-3CB371?style=flat-square" />
+<img alt="Communication" src="https://img.shields.io/badge/-Communication-FFD700?style=flat-square" />
+<img alt="Adaptability" src="https://img.shields.io/badge/-Adaptability-7B68EE?style=flat-square" />
+<img alt="TimeManagement" src="https://img.shields.io/badge/-TimeManagement-F08080?style=flat-square" />
+<img alt="Innovation" src="https://img.shields.io/badge/-Innovation-20B2AA?style=flat-square" />
+</p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pramodbn27&show_icons=true&locale=en" alt="pramodbn27" /></p>
 
