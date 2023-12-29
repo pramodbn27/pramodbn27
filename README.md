@@ -49,11 +49,11 @@
 <h4>Soft Skills</h4>
 <p>
 <img alt="Leadership" src="https://img.shields.io/badge/-Leadership-D70010?style=flat-square" />
-<img alt="CriticalThinking" src="https://img.shields.io/badge/-Critical%Thinking-FF6347?style=flat-square" />
-<img alt="ProblemSolving" src="https://img.shields.io/badge/-Problem%Solving-3CB371?style=flat-square" />
+<img alt="CriticalThinking" src="https://img.shields.io/badge/-Critical%20Thinking-FF6347?style=flat-square" />
+<img alt="ProblemSolving" src="https://img.shields.io/badge/-Problem%20Solving-3CB371?style=flat-square" />
 <img alt="Communication" src="https://img.shields.io/badge/-Communication-FA005A?style=flat-square" />
 <img alt="Adaptability" src="https://img.shields.io/badge/-Adaptability-7B68EE?style=flat-square" />
-<img alt="TimeManagement" src="https://img.shields.io/badge/-Time%Management-F08080?style=flat-square" />
+<img alt="TimeManagement" src="https://img.shields.io/badge/-Time%20Management-F08080?style=flat-square" />
 <img alt="Innovation" src="https://img.shields.io/badge/-Innovation-20B2AA?style=flat-square" />
 </p>
 
