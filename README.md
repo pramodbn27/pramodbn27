@@ -37,9 +37,9 @@
 
 <h4>Programming Languages/Frameworks</h4>
 <p>
-<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/-Python-4B4B77?style=flat-square&logo=python&logoColor=white" />
+<img alt="Flask" src="https://img.shields.io/badge/-Flask-41454A?style=flat-square&logo=flask&logoColor=white" />
+<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-FF7800?style=flat-square&logo=mysql&logoColor=white" />
 <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img alt="CSS3" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -48,12 +48,12 @@
 
 <h4>Soft Skills</h4>
 <p>
-<img alt="Leadership" src="https://img.shields.io/badge/-Leadership-4B8BBE?style=flat-square" />
-<img alt="CriticalThinking" src="https://img.shields.io/badge/-CriticalThinking-FF6347?style=flat-square" />
-<img alt="ProblemSolving" src="https://img.shields.io/badge/-ProblemSolving-3CB371?style=flat-square" />
-<img alt="Communication" src="https://img.shields.io/badge/-Communication-FFD700?style=flat-square" />
+<img alt="Leadership" src="https://img.shields.io/badge/-Leadership-D70010?style=flat-square" />
+<img alt="CriticalThinking" src="https://img.shields.io/badge/-Critical%Thinking-FF6347?style=flat-square" />
+<img alt="ProblemSolving" src="https://img.shields.io/badge/-Problem%Solving-3CB371?style=flat-square" />
+<img alt="Communication" src="https://img.shields.io/badge/-Communication-FA005A?style=flat-square" />
 <img alt="Adaptability" src="https://img.shields.io/badge/-Adaptability-7B68EE?style=flat-square" />
-<img alt="TimeManagement" src="https://img.shields.io/badge/-TimeManagement-F08080?style=flat-square" />
+<img alt="TimeManagement" src="https://img.shields.io/badge/-Time%Management-F08080?style=flat-square" />
 <img alt="Innovation" src="https://img.shields.io/badge/-Innovation-20B2AA?style=flat-square" />
 </p>
 
