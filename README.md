@@ -9,21 +9,8 @@
 <a href="https://instagram.com/pramodbn27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pramodbn27" height="30" width="40" /></a>
 </p>
 
-<div align="center">
-
-<div><h2 align="center">Skills Summary</h2></div>
-
-<div align="center">
-  
-<button class="tablink" onclick="openTab('devops')">DevOps Tools</button>
-<button class="tablink" onclick="openTab('languages')">Programming Languages / Frameworks</button>
-<button class="tablink" onclick="openTab('skills')">Soft Skills</button>
-
-</div>
-
-<div id="devops" class="tabcontent">
- <h3>Skills Summary</h3>
-<h4>DevOps Tools</h4>
+<details>
+<summary><h3>DevOps Tools</h3></summary>
 <p>
 <img alt="AWS" src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
 <img alt="Linux" src="https://img.shields.io/badge/-Linux-003366?style=flat-square&logo=linux&logoColor=white" />
@@ -50,10 +37,10 @@
 <img alt="Cloudflare" src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
 <img alt="REST API" src="https://img.shields.io/badge/-REST%20API-DA3B8A?style=flat-square" />
 </p>
-</div>
+</details>
 
-<div id="languages" class="tabcontent">
-<h4>Programming Languages/Frameworks</h4>
+<details>
+<summary><h3>Programming Languages/Frameworks</h3></summary>
 <p>
 <img alt="Python" src="https://img.shields.io/badge/-Python-4B4B77?style=flat-square&logo=python&logoColor=white" />
 <img alt="Flask" src="https://img.shields.io/badge/-Flask-41454A?style=flat-square&logo=flask&logoColor=white" />
@@ -62,34 +49,21 @@
 <img alt="CSS3" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 <img alt="Microservices" src="https://img.shields.io/badge/-Microservices-C9284D?style=flat-square" />
-</p>  
-</div>
-
-<div id="skills" class="tabcontent">
-<h4>Soft Skills</h4>
-<p>
-<img alt="Leadership" src="https://img.shields.io/badge/-Leadership-D70010?style=flat-square" />
-<img alt="CriticalThinking" src="https://img.shields.io/badge/-Critical%20Thinking-FF6347?style=flat-square" />
-<img alt="ProblemSolving" src="https://img.shields.io/badge/-Problem%20Solving-3CB371?style=flat-square" />
-<img alt="Communication" src="https://img.shields.io/badge/-Communication-FA005A?style=flat-square" />
-<img alt="Adaptability" src="https://img.shields.io/badge/-Adaptability-7B68EE?style=flat-square" />
-<img alt="TimeManagement" src="https://img.shields.io/badge/-Time%20Management-F08080?style=flat-square" />
-<img alt="Innovation" src="https://img.shields.io/badge/-Innovation-20B2AA?style=flat-square" />
 </p>
-</div>
+</details>
 
-</div>
+<details>
+<summary><h3>Soft Skills</h3></summary>
+<p>
+<img alt="Python" src="https://img.shields.io/badge/-Python-4B4B77?style=flat-square&logo=python&logoColor=white" />
+<img alt="Flask" src="https://img.shields.io/badge/-Flask-41454A?style=flat-square&logo=flask&logoColor=white" />
+<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-FF7800?style=flat-square&logo=mysql&logoColor=white" />
+<img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img alt="CSS3" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img alt="Microservices" src="https://img.shields.io/badge/-Microservices-C9284D?style=flat-square" />
+</p>
+</details>
 
-
-<script>
-function openTab(tabName) {
-  var i;
-  var x = document.getElementsByClassName("tabcontent");
-  for (i = 0; i < x.length; i++) {
-    x[i].style.display = "none";
-  }
-  document.getElementById(tabName).style.display = "block";
-}
-</script>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pramodbn27&" alt="pramodbn27" /></p>
