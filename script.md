@@ -1,14 +1,3 @@
-<h1 align="center">Hi 👋, I'm PRAMOD B N</h1>
-<h3 align="center">A Versatile Cloud and DevOps Engineer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pramodbn27&label=Profile%20views&color=0e75b6&style=flat" alt="pramodbn27" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/pramodbn27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pramodbn27" height="30" width="40" /></a>
-<a href="https://instagram.com/pramodbn27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pramodbn27" height="30" width="40" /></a>
-</p>
-
 <div align="center">
 
 <div><h2 align="center">Skills Summary</h2></div>
@@ -91,5 +80,3 @@ function openTab(tabName) {
   document.getElementById(tabName).style.display = "block";
 }
 </script>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pramodbn27&" alt="pramodbn27" /></p>
