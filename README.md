@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramodbn27&label=Profile%20views&color=0e75b6&style=flat" alt="pramodbn27" /> </p>
 
-<h3 align="left">Certifications</h3>
+<h3 align="left" style="display: inline;">Certifications</h3> <h4 style="display: inline; margin-left: 10px;">Verify</h4>
+
+![Certifications](https://img.shields.io/badge/Certifications-9999FF?style=for-the-badge)
+![Verify](https://img.shields.io/badge/click%20on%20the%20badges%20to%20verify-178703)
+
 <p align="left">
 <a href="https://www.credly.com/badges/d6eba757-5dab-4c5f-8341-0e005e80f75a" target="blank"><img align="center" src="certifications/aws-sa.png" alt="aws-sa" height="130" width="130" /></a>
 <a href="https://www.credly.com/badges/82cf019d-8586-4712-acf8-de7123c09247" target="blank"><img align="center" src="certifications/aws-cp.png" alt="aws-cp" height="130" width="130" /></a>
