@@ -64,7 +64,7 @@
 <h3>My Latest Projects</h3>
 
 
-<div style="border: 1px solid #35448f; padding: 10px; margin-bottom: 20px;">
+<div style="border: 3px solid #35448f; padding: 10px; margin-bottom: 20px;">
   <h3>Project 1 <a href="https://github.com/pramodbn27"><img alt="Repo-Link" src="https://img.shields.io/badge/Repo-Link-blue" /></a></h3>
   <img src="architectures/CSYE6225.png" alt="project 1" style="max-width: 100%; height: auto;"/>
 </div>
