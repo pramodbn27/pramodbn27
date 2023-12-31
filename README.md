@@ -61,13 +61,13 @@
 </p>
 
 
-<h3>My Latest Projects</h3>
+## ![My Latest Projects](https://img.shields.io/badge/My%20Latest%20Projects-f5d505?style=for-the-badge)
 
+### ![Project 1](https://img.shields.io/badge/Project%201-20B2AA?style=for-the-badge) [<img alt="Repo-Link" src="https://img.shields.io/badge/Repo-Link-blue" />](https://github.com/pramodbn27)
 
-<div style="border: 3px solid #35448f; padding: 10px; margin-bottom: 20px;">
-  <h3>Project 1 <a href="https://github.com/pramodbn27"><img alt="Repo-Link" src="https://img.shields.io/badge/Repo-Link-blue" /></a></h3>
-  <img src="architectures/CSYE6225.png" alt="project 1" style="max-width: 100%; height: auto;"/>
-</div>
+![pro-1](architectures/CSYE6225.png)
+
+---
 
 ### AWS 3 Tier Architecture [<img alt="Repo-Link" src="https://img.shields.io/badge/Repo-Link-blue" />](https://github.com/pramodbn27/aws-3-tier-architecture)
 
