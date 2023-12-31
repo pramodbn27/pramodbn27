@@ -16,13 +16,13 @@
 <img alt="Linux" src="https://img.shields.io/badge/-Linux-003366?style=flat-square&logo=linux&logoColor=white" />
 <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-<img alt="GitHubActions" src="https://img.shields.io/badge/-GitHub%20Actions-DA3B8A?style=flat-square&logo=githubactions&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
 <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" />
 <img alt="Pulumi" src="https://img.shields.io/badge/-Pulumi-8A3391?style=flat-square&logo=pulumi&logoColor=white" />
 <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-000000?style=flat-square&logo=ansible&logoColor=white" />
 <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-E23744?style=flat-square&logo=jenkins&logoColor=white" />
+<img alt="GitHubActions" src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
 <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
 <img alt="Prometheus" src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
 <img alt="NewRelic" src="https://img.shields.io/badge/-NewRelic-1CE783?style=flat-square&logo=newrelic&logoColor=white" />
@@ -60,10 +60,11 @@
 <img alt="Innovation" src="https://img.shields.io/badge/-Innovation-20B2AA?style=flat-square" />
 </p>
 
+
 <h3>My Latest Projects</h3>
 
 
-<div style="border: 2px solid #000000; padding: 10px; margin-bottom: 20px;">
+<div style="border: 1px solid #cccccc; padding: 10px; margin-bottom: 20px;">
   <h3>Project 1 <a href="https://github.com/pramodbn27"><img alt="Repo-Link" src="https://img.shields.io/badge/Repo-Link-blue" /></a></h3>
   <img src="architectures/CSYE6225.png" alt="project 1" style="max-width: 100%; height: auto;"/>
 </div>
