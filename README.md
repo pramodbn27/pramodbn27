@@ -9,8 +9,8 @@
 <a href="https://instagram.com/pramodbn27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pramodbn27" height="30" width="40" /></a>
 </p>
 
-<details>
-<summary><h3>DevOps Tools</h3></summary>
+<h3>Skills Summary</h3>
+<h4>DevOps Tools</h4>
 <p>
 <img alt="AWS" src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
 <img alt="Linux" src="https://img.shields.io/badge/-Linux-003366?style=flat-square&logo=linux&logoColor=white" />
@@ -37,10 +37,8 @@
 <img alt="Cloudflare" src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
 <img alt="REST API" src="https://img.shields.io/badge/-REST%20API-DA3B8A?style=flat-square" />
 </p>
-</details>
 
-<details>
-<summary><h3>Programming Languages/Frameworks</h3></summary>
+<h4>Programming Languages/Frameworks</h4>
 <p>
 <img alt="Python" src="https://img.shields.io/badge/-Python-4B4B77?style=flat-square&logo=python&logoColor=white" />
 <img alt="Flask" src="https://img.shields.io/badge/-Flask-41454A?style=flat-square&logo=flask&logoColor=white" />
@@ -50,20 +48,46 @@
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 <img alt="Microservices" src="https://img.shields.io/badge/-Microservices-C9284D?style=flat-square" />
 </p>
-</details>
 
-<details>
-<summary><h3>Soft Skills</h3></summary>
+<h4>Soft Skills</h4>
 <p>
-<img alt="Python" src="https://img.shields.io/badge/-Python-4B4B77?style=flat-square&logo=python&logoColor=white" />
-<img alt="Flask" src="https://img.shields.io/badge/-Flask-41454A?style=flat-square&logo=flask&logoColor=white" />
-<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-FF7800?style=flat-square&logo=mysql&logoColor=white" />
-<img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img alt="CSS3" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img alt="Microservices" src="https://img.shields.io/badge/-Microservices-C9284D?style=flat-square" />
+<img alt="Leadership" src="https://img.shields.io/badge/-Leadership-D70010?style=flat-square" />
+<img alt="CriticalThinking" src="https://img.shields.io/badge/-Critical%20Thinking-FF6347?style=flat-square" />
+<img alt="ProblemSolving" src="https://img.shields.io/badge/-Problem%20Solving-3CB371?style=flat-square" />
+<img alt="Communication" src="https://img.shields.io/badge/-Communication-FA005A?style=flat-square" />
+<img alt="Adaptability" src="https://img.shields.io/badge/-Adaptability-7B68EE?style=flat-square" />
+<img alt="TimeManagement" src="https://img.shields.io/badge/-Time%20Management-F08080?style=flat-square" />
+<img alt="Innovation" src="https://img.shields.io/badge/-Innovation-20B2AA?style=flat-square" />
 </p>
-</details>
+
+<h3>My Latest Projects</h3>
+
+### Project 1 [https://img.shields.io/badge/Repo-Link-blue](https://github.com/pramodbn27)
+
+![project 1](architectures/CSYE6225.png)
+
+### AWS 3 Tier Architecture [https://img.shields.io/badge/Repo-Link-blue](https://github.com/pramodbn27/aws-3-tier-architecture)
+
+<p float="left">
+  <img src="architectures/3-tier-architecture.gif" width="45%" />
+  <img src="architectures/active-failover.gif" width="45%" /> 
+</p>
+
+### Microservices Project 1 [https://img.shields.io/badge/Repo-Link-blue](https://github.com/pramodbn27/Microservices-Project-1)
+
+![ms-1](architectures/microservices-project-1.png)
+
+### Microservices Project 2 [https://img.shields.io/badge/Repo-Link-blue](https://github.com/pramodbn27/Microservices-Project-2)
+
+<embed src="architectures/Microservices Project 2.pdf" width="100%" height="500px" />
+
+### DevOps Project 1 [https://img.shields.io/badge/Repo-Link-blue](https://github.com/pramodbn27/devops-project-1)
+
+![devops-project-1](architectures/devops-project-1.png)
+
+### DevOps Project 2 [https://img.shields.io/badge/Repo-Link-blue](https://github.com/pramodbn27/devops-project-2)
+
+![devops-project-2](architectures/devops-project-2.png)
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pramodbn27&" alt="pramodbn27" /></p>
