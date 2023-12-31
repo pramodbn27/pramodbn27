@@ -11,7 +11,7 @@
 <h4>DevOps Tools</h4>
 <p>
 <img alt="AWS" src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-<img alt="Linux" src="https://img.shields.io/badge/-Linux-0033664?style=flat-square&logo=linux&logoColor=white" />
+<img alt="Linux" src="https://img.shields.io/badge/-Linux-003366?style=flat-square&logo=linux&logoColor=white" />
 <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
