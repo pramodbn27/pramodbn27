@@ -3,10 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramodbn27&label=Profile%20views&color=0e75b6&style=flat" alt="pramodbn27" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Certifications</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pramodbn27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pramodbn27" height="30" width="40" /></a>
-<a href="https://instagram.com/pramodbn27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pramodbn27" height="30" width="40" /></a>
+<a href="https://www.credly.com/badges/d6eba757-5dab-4c5f-8341-0e005e80f75a" target="blank"><img align="center" src="certifications/aws-sa.png" alt="aws-sa" height="340" width="340" /></a>
+<a href="https://www.credly.com/badges/82cf019d-8586-4712-acf8-de7123c09247" target="blank"><img align="center" src="certifications/aws-cp.png" alt="aws-cp" height="340" width="340" /></a>
+<a href="https://www.credly.com/badges/d51fc3f0-83b5-465a-8e07-3effb9185f38" target="blank"><img align="center" src="certifications/restart.png" alt="aws-restart" height="340" width="340" /></a>
+<a href="https://www.credly.com/badges/b02ebfeb-779c-4814-b0eb-ac3aac212f45" target="blank"><img align="center" src="certifications/aws-edu.png" alt="aws-edu" height="340" width="340" /></a>
+<a href="https://www.credly.com/badges/2e2f51e7-c876-453b-8bd8-d18434051f47" target="blank"><img align="center" src="certifications/ta.png" alt="aws-ta" height="340" width="340" /></a>
+<a href="https://www.credly.com/badges/57a1be5f-3923-4cf7-90e6-cca5a319bf2d" target="blank"><img align="center" src="certifications/well.png" alt="aws-well" height="340" width="340" /></a>
 </p>
 
 <h3>Skills Summary</h3>
